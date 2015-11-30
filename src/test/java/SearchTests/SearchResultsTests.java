@@ -7,7 +7,7 @@ import pages.SearchPage;
 
 import static org.testng.AssertJUnit.assertTrue;
 
-/**
+/***
  * Created by student on 9/8/2015.
  */
 public class SearchResultsTests extends TestBase{
